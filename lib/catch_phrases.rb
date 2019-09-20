@@ -9,4 +9,6 @@ end
 def link(name="It's Dangerous To Go Alone! Take This.")
   puts name
 end
-def any_phrase(phrase="")
+def any_phrase(phrase="Do A Barrel Roll!")
+  puts phrase
+end
